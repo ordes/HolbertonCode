@@ -1,1 +1,2 @@
 echo "Collaborator's notes" >
+echo "Adonis Koco has updated this file">
